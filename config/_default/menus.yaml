@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 705300a5-80aa-eec9-2f8f-9345f257d409
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cc26282f-6da6-0f88-ee95-98f7017513b7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 8b8c67c5-2b7e-0028-0473-e7766bb5c78b
+  name: Molecular Biology Boot Camp
+  pageRef: /pages/molecular-biology-boot-camp
+  weight: 30
+- identifier: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
+  name: Labs
+  pageRef: /pages/labs
+  weight: 40
+- identifier: 6f94795a-6caf-ab22-03d8-092a4df3580b
+  name: Presentations
+  pageRef: /pages/presentations
+  weight: 50
+- identifier: 1932b2cf-7f49-b7bd-643e-61dc06922016
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 921b599a-3bbc-ba3f-e99c-7d2cd66c3441
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: 563105bb-dcc4-f66c-0121-febd2513d1d8
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80
