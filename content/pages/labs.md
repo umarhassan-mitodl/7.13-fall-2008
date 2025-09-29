@@ -14,7 +14,7 @@ uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 
 The experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.
 
-{{% resource_link "091afb21-827a-4920-8f90-6cda66d913ee" "Legal Notice" %}}
+[Legal Notice](https://ocw.mit.edu/pages/privacy-and-terms-of-use/)
 
 ## Research Projects
 
@@ -41,7 +41,7 @@ Agarose gel electrophoresis and DNA band excision
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Antarctic phosphatase
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "38b68f8b-dd14-4766-bdb8-cf060d25b8f4" "New England biolabs antarctic phosphatase" %}}
+[New England biolabs antarctic phosphatase](https://www.neb.com/products/m0289-antarctic-phosphatase#Product%20Information)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Biofilm plate assay
 {{< tdclose >}}{{< tdopen >}}
@@ -57,7 +57,7 @@ CAS agar plates for pseudomonas — high and low fe
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Current protocols online
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "e6d43a3b-e4e2-4703-913d-e8147288a1c7" "Wiley interscience protocols" %}}
+[Wiley interscience protocols](http://www3.interscience.wiley.com/browse/?type=CURRENT_PROTOCOL)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Characterization of phenazines in pseudomonas
 {{< tdclose >}}{{< tdopen >}}
@@ -65,11 +65,11 @@ Characterization of phenazines in pseudomonas
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 CIP — calf intestinal alkaline phosphotase
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "1fcc2939-afbc-4ca5-aafa-498ef6715200" "Promega alkaline phosphatase protocol" %}}
+[Promega alkaline phosphatase protocol](https://www.promega.com/resources/protocols/product-information-sheets/g/alkaline-phosphatase-ciap-protocol/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Datsenko 2000 PNAS red swap
 {{< tdclose >}}{{< tdopen >}}
-Datsenko, K. A., and B. L. Wanner. "One-Step Inactivation of Chromosomal Genes in *Escherichia Coli* K-12 Using PCR Products." *PNAS* 97, no. 12 (2000): 6640-5. ({{% resource_link "3d3d4ead-47ad-482e-804d-e7d72530e9b0" "PDF" %}})
+Datsenko, K. A., and B. L. Wanner. "One-Step Inactivation of Chromosomal Genes in *Escherichia Coli* K-12 Using PCR Products." *PNAS* 97, no. 12 (2000): 6640-5. ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC18686/pdf/pq006640.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Dephosphorylating with CIP & T4 ligation reactions
 {{< tdclose >}}{{< tdopen >}}
@@ -89,15 +89,15 @@ Generating and screening for mutants in fur
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 IQ SyBR green supermix
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "7e2be9f5-5c0e-44a7-a120-8f3d40a14e34" "PDF" %}})
+([PDF](http://www.bio-rad.com/webroot/web/pdf/lsr/literature/4106212B.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lysozyme
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "f5e4bb24-cc5f-4345-8c99-574bd581539b" "PDF" %}})
+([PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/7/l7651dat.Par.0001.File.tmp/l7651dat.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 MegaX DH10B T1R electrocomp cells
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "fd8849a4-d9a7-4802-b09b-557c59375bf4" "PDF" %}})
+([PDF](http://tools.invitrogen.com/content/sfs/manuals/megax_man.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Motility assays
 {{< tdclose >}}{{< tdopen >}}
@@ -105,15 +105,15 @@ Motility assays
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 NEB quick ligation kit
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "16100187-9eaf-4865-befe-a1fad2a4ebb9" "New England biolabs quick ligation kit" %}}
+[New England biolabs quick ligation kit](https://www.neb.com/products/m2200-quick-ligation-kit#Product%20Information)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 NEB T4 DNA ligase
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "565c4418-66e3-4ed9-ae1d-6f6fe6180e25" "New England biolabs T4 DNA ligase" %}}
+[New England biolabs T4 DNA ligase](https://www.neb.com/products/m0202-t4-dna-ligase#Product%20Information)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 PA14 Tn mutant library
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "267c39bc-2a03-4912-9aa8-678bdae94868" "PDF" %}})
+([PDF](https://pa14.mgh.harvard.edu/cgi-bin/pa14/home.cgi))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 PCR with platinum PCR super mix
 {{< tdclose >}}{{< tdopen >}}
@@ -149,11 +149,11 @@ Restriction enzyme digests
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Ribonuclease A
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "7d3f1220-3e45-411c-a3f8-c4408f6d0120" "PDF" %}})
+([PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/5/r4642dat.Par.0001.File.tmp/r4642dat.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 SAP — shrimp alkaline phosphotase
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "602ddb8b-96cb-456c-a164-20d828bc43b5" "PDF" %}})
+([PDF](http://fermentas.com/templates/files/tiny_mce/coa_pdf/coa_ef0511.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Spectrophotometric determination of DNA concentration
 {{< tdclose >}}{{< tdopen >}}
@@ -161,15 +161,15 @@ Spectrophotometric determination of DNA concentration
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 T4 polynucleotide kinase
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "352def8f-297d-42d4-8df8-1681d46385c3" "New England bioLabs T4 polynucleotide kinase" %}}
+[New England bioLabs T4 polynucleotide kinase](https://www.neb.com/products/m0201-t4-polynucleotide-kinase#Product%20Information)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Tips on how to troubleshoot your cloning
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "bd264bbc-abdd-4da3-9587-9380d3ff9f5f" "PDF" %}})
+([PDF](https://www.neb.com/tools-and-resources/troubleshooting-guides/troubleshooting-guide-for-cloning))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 TOPO TA PCR cloning kit
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "72c3a91e-84f8-4d41-a72f-5a4c7be9e34e" "PDF" %}})
+([PDF](http://tools.invitrogen.com/content/sfs/manuals/topota_man.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Transformation of DH5a-T1R chemically competent cells
 {{< tdclose >}}{{< tdopen >}}
@@ -177,7 +177,7 @@ Transformation of DH5a-T1R chemically competent cells
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Epicentre failsafe PCR kit
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "eed98d6b-3144-47d9-bc0e-c048e523d050" "Epicentre biotechnologies failsafe PCR premix selection kit (PDF)" %}}
+[Epicentre biotechnologies failsafe PCR premix selection kit (PDF)](https://www.lucigen.com/FailSafe-and-trade-PCR-Systems/)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Archives
@@ -192,6 +192,6 @@ You will be required to archive the strain and plasmids you construct during the
 - Results from phenazine screen on tryptone plates ({{% resource_link "a49f3e15-9a39-7e21-8193-928f878da814" "PDF" %}})
 - List of common primers ({{% resource_link "0f206418-b4de-e875-e180-65e4276a35ca" "XLS" %}})
 - pUCP18 sequence ({{% resource_link "45ced4ab-7d28-1988-53ee-b4b28b55890b" "PDF" %}})
-- {{% resource_link "ae053ad7-d8e1-4bc0-90ba-c442c20aca5a" "pUCP18 map" %}}
+- [pUCP18 map](http://www.snapgene.com/resources/plasmid_files/basic_cloning_vectors/pUC18/)
 - pMQ64 sequence ({{% resource_link "b9f4ac1e-e73d-e694-cdc7-283bd2e1381e" "PDF" %}})
 - pMQ64 map ({{% resource_link "14df6a57-a42a-0e81-c2d3-daa124bbf26a" "PDF" %}})
