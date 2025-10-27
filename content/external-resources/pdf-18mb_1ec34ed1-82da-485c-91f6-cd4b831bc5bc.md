@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC94731/pdf/jb005990.pdf
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: PDF - 1.8MB
+uid: 1ec34ed1-82da-485c-91f6-cd4b831bc5bc
+wayback_url: ''
+---

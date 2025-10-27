@@ -5,8 +5,6 @@ description: Laboratory protocol for a student research project on examining the
 file: /courses/7-13-experimental-microbial-genetics-fall-2008/9e08cecb57f11c7e3ce43b7e5995dc26_MIT7_13f08_lab12_Protocol_Mucoid.pdf
 file_size: 97105
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

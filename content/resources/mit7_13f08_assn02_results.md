@@ -5,8 +5,6 @@ description: Guidelines for writing the results, discussion, and abstract, and f
 file: /courses/7-13-experimental-microbial-genetics-fall-2008/ee81605dad444dd611d5c78c7c9040f4_MIT7_13f08_assn02_Results.pdf
 file_size: 308121
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

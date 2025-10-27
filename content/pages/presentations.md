@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the three formal oral presentations
   required for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Presentations

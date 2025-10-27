@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides guidelines and instructions for the writing assignments
   of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

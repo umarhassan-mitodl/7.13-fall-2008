@@ -5,8 +5,6 @@ description: Guidelines for writing introductions to the writing assignments of 
 file: /courses/7-13-experimental-microbial-genetics-fall-2008/8998dafe18e2bcf71b7ab02d0b51702d_MIT7_13f08_assn01_Intro.pdf
 file_size: 192422
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

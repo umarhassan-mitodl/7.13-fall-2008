@@ -4,8 +4,6 @@ description: This syllabus section provides the course description, an overview 
   course components, and information on expectations, laboratory work, oral presentations,
   writing requirements, readings, grading policy, lab hours, attendance, and mid-term
   evaluation.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
